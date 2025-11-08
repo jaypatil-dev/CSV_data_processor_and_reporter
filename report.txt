@@ -1,0 +1,13 @@
+====================
+Data Analysis Report
+====================
+Names: Alice, Bob, Charlie
+Scores1: 85.0, 70.0, 92.0
+Scores2: 98.0, 75.0, 88.0
+
+Mean (Average) of class: 84.67
+Median of class: 86.50
+Standard Deviation of class: 9.59
+Variance of class: 91.89
+Minimum of class: 70.00
+Maximum of class: 98.00
